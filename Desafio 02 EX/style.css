@@ -1,0 +1,24 @@
+body {
+    width: 626px;
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+
+    color: #3F3D56;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#rico {
+    font-weight: 400px;
+    font-size: 19px;
+
+    color: #3F3D56;
+    font-family: 'Dosis', sans-serif;
+}
+
+#footer {
+    margin: auto;
+    align-items: center;
+}
